@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "sift": "https://deno.land/x/sift@0.6.0/mod.ts",
+        "axios": "https://cdn.skypack.dev/axios",
+        "cheerio": "https://cdn.skypack.dev/cheerio",
+        "puppeteer": "https://deno.land/x/puppeteer@16.2.0/mod.ts"
+    }
+}
